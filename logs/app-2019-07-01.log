@@ -1,0 +1,6 @@
+20:32:41.023 ERROR LoggingDemo -哈哈
+20:32:41.030 DEBUG LoggingDemo -debug
+20:32:41.030 INFO  LoggingDemo -info
+20:37:36.186 ERROR LoggingDemo -哈哈
+20:37:36.192 DEBUG LoggingDemo -debug
+20:37:36.192 INFO  LoggingDemo -info

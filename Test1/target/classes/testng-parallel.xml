@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel TestSuite" parallel="tests" thread-count="2">
+    <test name="1">
+        <classes>
+            <class name="imooctest.Test1"></class>
+        </classes>
+    </test>
+    <test name="2">
+        <classes>
+            <class name="imooctest.Test2"></class>
+        </classes>
+    </test>
+</suite>
