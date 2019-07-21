@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/log4j/LoggingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/qqtest/QqLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/testclasses/FindLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/testclasses/FreeCourdePageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/testclasses/TestngSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/grouptest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/testng-parallel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/testng-selenium-parallel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/Test1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1932" />
     <option name="height" value="1047" />
@@ -300,6 +284,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -466,7 +451,7 @@
       <workItem from="1563004599701" duration="622000" />
       <workItem from="1563241319630" duration="2438000" />
       <workItem from="1563418961521" duration="447000" />
-      <workItem from="1563454937379" duration="254000" />
+      <workItem from="1563454937379" duration="598000" />
     </task>
     <servers />
   </component>
@@ -503,7 +488,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55501000" />
+    <option name="totallyTimeSpent" value="55845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,8 +500,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.29637527" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.108208954" />
