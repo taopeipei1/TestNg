@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/qqtest/CrmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/bean/ColumnInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/bean/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/bean/TableInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/MysqlTypeConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/QueryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/TableContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/core/TypeConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/utils/JavaFileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/utils/ReflectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/sorm/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/java/tencent/FindElementsMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/src/main/resources/driver/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestNg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestNg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/Test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/Test1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/target/classes/imooctest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/target/classes/imooctest/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/target/classes/imooctest/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/target/classes/imooctest/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/target/classes/imooctest/TestAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/target/classes/test/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/target/classes/test/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/target/classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/target/classes/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/Test1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -237,49 +203,6 @@
             <path>
               <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imooctest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
@@ -509,7 +432,7 @@
       <workItem from="1582078069893" duration="599000" />
       <workItem from="1582080715345" duration="599000" />
       <workItem from="1582082532290" duration="597000" />
-      <workItem from="1584340247655" duration="2179000" />
+      <workItem from="1584340247655" duration="2182000" />
     </task>
     <servers />
   </component>
@@ -546,7 +469,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126158000" />
+    <option name="totallyTimeSpent" value="126161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -558,8 +481,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.108208954" />
