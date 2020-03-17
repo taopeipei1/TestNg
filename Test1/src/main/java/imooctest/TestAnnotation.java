@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import test.TestClass;
 
+/*
 public class TestAnnotation {
     @Test(priority =3 )
     public void testMethod1(){
@@ -31,3 +32,4 @@ public class TestAnnotation {
         System.out.println("第三"+a.toString());
     }
 }
+*/

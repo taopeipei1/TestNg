@@ -3,7 +3,9 @@ package imooctest;
 import org.testng.annotations.Test;
 
 public class Test2 {
-    @Test
+
+
+    @Test(dependsOnGroups = "t")
     public void setUp(){
         System.out.println("test2");
     }

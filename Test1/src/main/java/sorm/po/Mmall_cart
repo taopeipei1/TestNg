@@ -1,0 +1,59 @@
+package mian.java.sorm.po;
+
+import java.sql.*;
+import java.util.*;
+
+public class Mmall_cart {
+
+	private Timestamp update_time;
+	private integer quantity;
+	private Timestamp create_time;
+	private integer user_id;
+	private integer product_id;
+	private integer checked;
+	private integer id;
+
+
+	public Timestamp getUpdate_time(){
+		return update_time;
+	}
+	public integer getQuantity(){
+		return quantity;
+	}
+	public Timestamp getCreate_time(){
+		return create_time;
+	}
+	public integer getUser_id(){
+		return user_id;
+	}
+	public integer getProduct_id(){
+		return product_id;
+	}
+	public integer getChecked(){
+		return checked;
+	}
+	public integer getId(){
+		return id;
+	}
+	public void Timestamp setUpdate_time(Timestamp update_time){
+		this.update_time = update_time;
+	}
+	public void integer setQuantity(integer quantity){
+		this.quantity = quantity;
+	}
+	public void Timestamp setCreate_time(Timestamp create_time){
+		this.create_time = create_time;
+	}
+	public void integer setUser_id(integer user_id){
+		this.user_id = user_id;
+	}
+	public void integer setProduct_id(integer product_id){
+		this.product_id = product_id;
+	}
+	public void integer setChecked(integer checked){
+		this.checked = checked;
+	}
+	public void integer setId(integer id){
+		this.id = id;
+	}
+}
