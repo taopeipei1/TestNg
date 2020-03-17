@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="" />
+    <list default="true" id="0645a2a7-02d0-450a-9785-52ad60db4da5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/Test1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,16 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+>>>>>>> dev
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -35,20 +46,44 @@
                 <element signature="e#136#137#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+>>>>>>> dev
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/po/Mmall_cart">
           <provider selected="true" editor-type-id="text-editor" />
+=======
+        <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+>>>>>>> dev
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/core/DBManager.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="502">
               <caret line="36" column="49" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="49" />
+=======
+            <state relative-caret-position="361">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+>>>>>>> dev
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,6 +92,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/core/MysqlTypeConvertor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -70,18 +106,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+=======
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/testclasses/FindLinks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+>>>>>>> dev
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,6 +120,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Test1/src/main/java/testclasses/FindLinks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+>>>>>>> dev
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="646">
@@ -97,10 +147,17 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/Test1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+>>>>>>> dev
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test1/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,6 +165,11 @@
               <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
             </state>
           </provider>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> dev
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -146,6 +208,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/Test1/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java" />
+>>>>>>> dev
         <option value="$PROJECT_DIR$/Test1/src/main/resources/grouptest.xml" />
         <option value="$PROJECT_DIR$/Test1/src/main/resources/testng-selenium-parallel.xml" />
         <option value="$PROJECT_DIR$/Test1/src/main/java/testclasses/FreeCourdePageFactory.java" />
@@ -154,6 +221,7 @@
         <option value="$PROJECT_DIR$/Test1/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/Test1/src/main/resources/testng-parallel.xml" />
         <option value="$PROJECT_DIR$/Test1/src/main/java/log4j/LoggingDemo.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test1.java" />
         <option value="$PROJECT_DIR$/Test1/src/main/java/imooctest/Test2.java" />
         <option value="$PROJECT_DIR$/Test1/src/main/resources/testng.xml" />
@@ -174,6 +242,8 @@
         <option value="$PROJECT_DIR$/Test1/src/main/java/sorm/core/MysqlTypeConvertor.java" />
         <option value="$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java" />
         <option value="$PROJECT_DIR$/Test1/src/main/java/tencent/FindElementsMethods.java" />
+=======
+>>>>>>> dev
         <option value="$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java" />
       </list>
     </option>
@@ -206,6 +276,44 @@
             </path>
             <path>
               <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
+=======
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> dev
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -469,7 +577,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="126161000" />
+=======
+    <option name="totallyTimeSpent" value="55869000" />
+>>>>>>> dev
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,6 +594,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< HEAD
+=======
+    <editor active="true" />
+>>>>>>> dev
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.108208954" />
@@ -746,6 +862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/bean/ColumnInfo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="228">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="21" />
           <folding>
@@ -761,6 +878,13 @@
             <element signature="e#411#412#0" expanded="true" />
             <element signature="e#454#455#0" expanded="true" />
             <element signature="e#492#493#0" expanded="true" />
+=======
+        <state relative-caret-position="304">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+>>>>>>> dev
           </folding>
         </state>
       </provider>
@@ -788,18 +912,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/bean/TableInfo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="437">
           <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/core/TableContext.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="893">
           <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+=======
+        <state relative-caret-position="608">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+>>>>>>> dev
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -888,6 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/qqtest/QqLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="190">
           <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
@@ -895,6 +1030,10 @@
             <element signature="e#1338#1339#0" expanded="true" />
             <element signature="e#1368#1369#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="304">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
@@ -913,8 +1052,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/testclasses/FindLinks.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="76">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+        <state relative-caret-position="608">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+>>>>>>> dev
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -941,6 +1085,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/core/DBManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -952,6 +1097,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/sorm/core/MysqlTypeConvertor.java">
+=======
+    <entry file="file://$PROJECT_DIR$/Test1/src/main/resources/testng-parallel.xml">
+>>>>>>> dev
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -978,18 +1126,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test1/src/main/java/imooctest/TestAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="646">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+=======
+        <state relative-caret-position="76">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+>>>>>>> dev
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Test1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+=======
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test1/src/main/java/test/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
